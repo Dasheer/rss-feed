@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Mi feed RSS</title>
+    <description>Los últimos artículos de mi blog</description>
+    <link>https://example.com/</link>
+    <item>
+      <title>Mi primer artículo</title>
+      <description>Lee mi primer artículo para aprender más sobre...</description>
+      <link>https://example.com/mi-primer-articulo</link>
+      <pubDate>Wed, 04 May 2023 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
